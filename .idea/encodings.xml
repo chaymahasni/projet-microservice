@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Ms Project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Reclamation/GestionReclamationMicroservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TacheMsServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TaskSync-hazem_branch/TaskSync-hazem_branch/MS_Microservice_Gestion_Comment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api_gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projectServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/userMs/src/main/java" charset="UTF-8" />
+  </component>
+</project>

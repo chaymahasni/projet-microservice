@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  app:
+    image: gestion-reclamation-microservice  # Utilise l'image que vous avez construite localement
+    container_name: gestion_reclamation_microservice
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./target/GestionReclamationMicroservice-0.0.1-SNAPSHOT.jar:/app/app.jar
